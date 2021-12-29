@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="projekt_jpwp.Form1">
+    <Position X="2.25" Y="0.5" Width="2.5" />
+    <Members>
+      <Field Name="button1" Hidden="true" />
+      <Field Name="button10" Hidden="true" />
+      <Field Name="button11" Hidden="true" />
+      <Field Name="button12" Hidden="true" />
+      <Field Name="button13" Hidden="true" />
+      <Field Name="button14" Hidden="true" />
+      <Field Name="button15" Hidden="true" />
+      <Field Name="button16" Hidden="true" />
+      <Field Name="button17" Hidden="true" />
+      <Field Name="button18" Hidden="true" />
+      <Field Name="button19" Hidden="true" />
+      <Field Name="button2" Hidden="true" />
+      <Field Name="button20" Hidden="true" />
+      <Field Name="button21" Hidden="true" />
+      <Field Name="button22" Hidden="true" />
+      <Field Name="button23" Hidden="true" />
+      <Field Name="button24" Hidden="true" />
+      <Field Name="button25" Hidden="true" />
+      <Field Name="button26" Hidden="true" />
+      <Field Name="button27" Hidden="true" />
+      <Field Name="button28" Hidden="true" />
+      <Field Name="button29" Hidden="true" />
+      <Field Name="button3" Hidden="true" />
+      <Field Name="button30" Hidden="true" />
+      <Field Name="button31" Hidden="true" />
+      <Field Name="button32" Hidden="true" />
+      <Field Name="button33" Hidden="true" />
+      <Field Name="button34" Hidden="true" />
+      <Field Name="button35" Hidden="true" />
+      <Field Name="button36" Hidden="true" />
+      <Field Name="button37" Hidden="true" />
+      <Field Name="button38" Hidden="true" />
+      <Field Name="button39" Hidden="true" />
+      <Field Name="button4" Hidden="true" />
+      <Field Name="button40" Hidden="true" />
+      <Field Name="button41" Hidden="true" />
+      <Field Name="button42" Hidden="true" />
+      <Field Name="button5" Hidden="true" />
+      <Field Name="button6" Hidden="true" />
+      <Field Name="button7" Hidden="true" />
+      <Field Name="button8" Hidden="true" />
+      <Field Name="button9" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Method Name="Dispose" Hidden="true" />
+      <Method Name="InitializeComponent" Hidden="true" />
+      <Field Name="label1" Hidden="true" />
+      <Field Name="label2" Hidden="true" />
+      <Field Name="label3" Hidden="true" />
+      <Field Name="label4" Hidden="true" />
+      <Field Name="label5" Hidden="true" />
+      <Field Name="label6" Hidden="true" />
+      <Field Name="listBox1" Hidden="true" />
+      <Field Name="listBox2" Hidden="true" />
+      <Field Name="tableLayoutPanel1" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>ADgEQQUAgCAAgRoHABiQwIEDBMw74MrxCGwhcjhwASA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt_jpwp.Program">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt_jpwp.Properties.Resources" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="projekt_jpwp.Properties.Settings" Collapsed="true">
+    <Position X="5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="5" Y="6.75" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
