@@ -10,14 +10,21 @@ using System.Windows.Forms;
 
 namespace projekt_jpwp
 {
-    public partial class UserControl1 : UserControl
+    public partial class Zasady : UserControl
     {
-        public UserControl1()
+        /// <summary>
+        /// zasady gry
+        /// </summary>
+        public Zasady()
         {
             InitializeComponent();
         }
 
-
+        /// <summary>
+        /// powrót do menu
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();

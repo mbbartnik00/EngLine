@@ -117,6 +117,15 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>1. Należy przetłumaczyć pokazane słowa na język angielski oraz znaleźć je w 
+wyświetlonym ciągu liter.
+2. Naciśnij wszystkie litery znalezionego słowa, po czym kliknij w przycisk "Sprawdź".
+3. Po znalezieniu wszystkich słów zostanie wyświetlona lista z wyrazami, z których należy ułożyć zdanie.
+4. Zdania układa się przeciągając słowa z jednej listy do drugiej w odpowiedniej kolejności.
+5. Po ułożeniu zdania należy kliknąć w przycisk "Sprawdź".
+6. Jeśli zdanie zostało ułożone poprawnie rozpocznie się kolejny poziom. W przeciwnym wypadku wyrazy wrócą na swoje miejsce.</value>
+  </data>
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>

@@ -13,6 +13,9 @@ namespace projekt_jpwp
 
     public partial class Menu : Form
     {
+        /// <summary>
+        /// menu główne
+        /// </summary>
         public Menu()
         {
             InitializeComponent();
@@ -20,27 +23,37 @@ namespace projekt_jpwp
             
         }
 
-
-        private void button1_Click_1(object sender, EventArgs e)
+        /// <summary>
+        /// rozpoczęcie gry
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void button1_Click_1(object sender, EventArgs e) 
         {
             Form1 form1 = new Form1();
             this.Hide();
             form1.ShowDialog();
         }
-
+        /// <summary>
+        /// zasady gry
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button2_Click(object sender, EventArgs e)
         {
             userControl11.Show();
         }
-
+        /// <summary>
+        ///  wyjście z gry
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void button3_Click(object sender, EventArgs e)
         {
-
+            this.Close();
         }
 
-        private void button4_Click(object sender, EventArgs e)
-        {
 
-        }
+
     }
 }

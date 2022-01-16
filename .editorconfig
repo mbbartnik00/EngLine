@@ -1,0 +1,4 @@
+﻿[*.cs]
+
+# CS1690: Dostęp do składowej pola w klasie marshal-by-reference może spowodować wystąpienie wyjątku czasu wykonywania
+dotnet_diagnostic.CS1690.severity = none
